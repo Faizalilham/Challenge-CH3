@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">ChallengeRecycler</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="a">A</string>
+    <string name="ketikkan_sesuatu">Ketikkan Sesuatu</string>
+    <string name="tambah">Tambah</string>
+    <string name="sort_amp_filter"><![CDATA[Sort]]></string>
+    <string name="sort_amp_filter_berdasarkan"><![CDATA[Sort berdasarkan :]]></string>
+    <string name="a_z">A-Z</string>
+    <string name="z_a">Z-A</string>
+    <string name="z_to_a">Z - A</string>
+
+    <string-array name="A">
+        <item>Ayam</item>
+        <item>Anjing</item>
+        <item>Ariel Tatum</item>
+        <item>Anya Geraldine</item>
+    </string-array>
+
+    <string-array name="B">
+        <item>Babi</item>
+        <item>Bantal</item>
+        <item>Bakso</item>
+    </string-array>
+
+    <string-array name="C">
+        <item>Cacing</item>
+        <item>Cicak</item>
+        <item>Cendol</item>
+    </string-array>
+
+    <string-array name="D">
+        <item>Dara</item>
+        <item>Daging</item>
+        <item>Dangdut</item>
+        <item>Deddy Corbuzier</item>
+        <item>Donkey</item>
+        <item>Domba</item>
+        <item>Dosa</item>
+    </string-array>
+
+    <string-array name="E">
+        <item>Elang</item>
+        <item>Emas</item>
+        <item>Es Batu</item>
+    </string-array>
+
+    <string-array name="F">
+        <item>Faizalilham</item>
+        <item>Fibonacci</item>
+        <item>Fisabilillah</item>
+    </string-array>
+
+    <string-array name="G">
+        <item>Gajah</item>
+        <item>Galon</item>
+        <item>Gading</item>
+        <item>Gishel</item>
+    </string-array>
+
+    <string-array name="H">
+        <item>Harimau</item>
+        <item>Handuk</item>
+        <item>Handphone</item>
+    </string-array>
+
+    <string-array name="I">
+        <item>Ilalang</item>
+        <item>Isa</item>
+        <item>Ikan</item>
+    </string-array>
+
+    <string-array name="J">
+        <item>Jambu</item>
+        <item>Jindan Istilah Kata</item>
+        <item>Janda</item>
+    </string-array>
+
+    <string-array name="K">
+        <item>Kurus</item>
+        <item>Kijang</item>
+        <item>Kaki</item>
+    </string-array>
+
+    <string-array name="L">
+        <item>Lambe</item>
+        <item>Laos</item>
+        <item>Lansia</item>
+    </string-array>
+
+    <string-array name="M">
+        <item>Makanan</item>
+        <item>Minuman</item>
+        <item>Macan</item>
+        <item>Monyet</item>
+    </string-array>
+
+    <string-array name="N">
+        <item>Ninja</item>
+        <item>Nikah</item>
+        <item>Naruto</item>
+    </string-array>
+    <string-array name="O">
+        <item>Orang hutan</item>
+        <item>Ontel</item>
+        <item>Om Om</item>
+    </string-array>
+    <string-array name="P">
+        <item>Panah</item>
+        <item>Paku</item>
+        <item>Pesulap Merah</item>
+    </string-array>
+    <string-array name="Q">
+        <item>Questions</item>
+        <item>Qiuiu</item>
+        <item>Q</item>
+    </string-array>
+    <string-array name="R">
+        <item>Rambutan</item>
+        <item>Rajungan</item>
+        <item>Rambut</item>
+    </string-array>
+    <string-array name="S">
+        <item>Samsudin Jadab</item>
+        <item>Sangkuriang</item>
+        <item>Sambal</item>
+        <item>Sampah</item>
+    </string-array>
+    <string-array name="T">
+        <item>Tinja</item>
+        <item>Tangan</item>
+        <item>Tambah</item>
+    </string-array>
+    <string-array name="U">
+        <item>Uang</item>
+        <item>Usus</item>
+        <item>Usaha</item>
+    </string-array>
+    <string-array name="V">
+        <item>Vacum Cleaner</item>
+        <item>Vincent Rompies</item>
+        <item>Visa</item>
+    </string-array>
+    <string-array name="W">
+        <item>Wangsit</item>
+        <item>Wasiat</item>
+        <item>Wira usaha</item>
+    </string-array>
+    <string-array name="X">
+        <item>Xavier</item>
+        <item>Xin</item>
+        <item>Xixi</item>
+    </string-array>
+    <string-array name="Y">
+        <item>Yaman</item>
+        <item>Yoyo</item>
+        <item>Yin</item>
+    </string-array>
+    <string-array name="Z">
+        <item>Zebra</item>
+        <item>Zeus</item>
+        <item>Zam Zam</item>
+    </string-array>
+</resources>
