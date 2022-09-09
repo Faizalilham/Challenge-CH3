@@ -3,9 +3,11 @@ package com.example.recyclerwithnavigationcomponent.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
+import android.view.animation.AnimationUtils
 import androidx.recyclerview.widget.AsyncListDiffer
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
+import com.example.recyclerwithnavigationcomponent.R
 import com.example.recyclerwithnavigationcomponent.databinding.ListItemBinding
 import com.example.recyclerwithnavigationcomponent.model.Huruf
 
@@ -41,6 +43,7 @@ class HurufAdapter(val listener : Clicked):RecyclerView.Adapter<HurufAdapter.Hur
             card.setOnClickListener {
                 listener.onClick(differ.currentList[position])
             }
+            card.startAnimation(AnimationUtils.loadAnimation(holder.itemView.context, R.anim.anim))
         }
 
     }
